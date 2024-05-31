@@ -22,4 +22,11 @@ Cfilter = 100uH
 Lfilter(grid side) = 500uH
 
 **_Batter Parameters_**
+Vinput = 48V
+Load: R = 6 ohm
+Nominal voltage (V) = 24V
+Rater Capacity = 50Ah
+Initial SOC = 45%
+Battery Response Time = 1 sec
 
+**NOTE** The necessary modifications can be made to sync the circuit with the grid voltage as well as supply necessary power to the battery. 
